@@ -1,11 +1,17 @@
 body {
+  font-family: 'Varela Round';
   background-color: #000000;
 }
 
+p {
+  padding-top: 1%;
+  font-size: 2rem;
+}
+
 .header {
-  height: 5%;
+  height: 4%;
   width: 100%;
-  padding: 2%;
+  padding: 1%;
 }
 
 .flexcontainer {
@@ -18,11 +24,11 @@ body {
 }
 
 .eye_image {
-  width: 5%;
+  width: 4%;
 }
 
 .main_image_container{
-  width: 50%;
+  width: 55%;
   margin: 0 auto;
 }
 
